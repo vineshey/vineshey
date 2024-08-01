@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinesh V (@vineshey)
-- 👀 I’m interested in doing things, i love to do code...
+- 👀 I’m interested in doing things, i love to do automation codes...
 - 🌱 I’m currently learning B.Tech ECE @NSSCE Pkd
 - 📫 How to reach me :Email: kavungalvinesh@gmail.com
 - 😄 Pronouns: He/Him
