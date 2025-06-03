@@ -11,7 +11,7 @@
 Welcome to my personal portfolio repository! This project showcases my work, skills, and projects using React, Vite, and Tailwind CSS.
 
 🚀 **Live Demo**:  
-👉 [https://my-portfolio-vinesh.vercel.app](https://my-portfolio-vinesh.vercel.app)
+👉 [https://vinesh-v-portfolio.vercel.app](https://my-portfolio-vinesh.vercel.app)
 
 ## 🛠️ Tech Stack
 - React
