@@ -13,10 +13,6 @@ Welcome to my personal portfolio repository! This project showcases my work, ski
 🚀 **Live Demo**:  
 👉 [https://my-portfolio-vinesh.vercel.app](https://my-portfolio-vinesh.vercel.app)
 
-![Portfolio Screenshot](https://my-portfolio-vinesh.vercel.app/og-image.png)
-
----
-
 ## 🛠️ Tech Stack
 - React
 - Vite
