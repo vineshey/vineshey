@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love everything!
 
   
-# 💼 Vinesh's Portfolio
+# 💼 My Portfolio
 
 Welcome to my personal portfolio repository! This project showcases my work, skills, and projects using React, Vite, and Tailwind CSS.
 
@@ -22,6 +22,3 @@ Welcome to my personal portfolio repository! This project showcases my work, ski
 - Vite
 - Tailwind CSS
 - Vercel (Deployment)
-
-## 📂 Folder Structure
-
