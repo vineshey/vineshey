@@ -5,7 +5,23 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love everything!
 
-<!---
-vineshey/vineshey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+# 💼 Vinesh's Portfolio
+
+Welcome to my personal portfolio repository! This project showcases my work, skills, and projects using React, Vite, and Tailwind CSS.
+
+🚀 **Live Demo**:  
+👉 [https://my-portfolio-vinesh.vercel.app](https://my-portfolio-vinesh.vercel.app)
+
+![Portfolio Screenshot](https://my-portfolio-vinesh.vercel.app/og-image.png)
+
+---
+
+## 🛠️ Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- Vercel (Deployment)
+
+## 📂 Folder Structure
+
